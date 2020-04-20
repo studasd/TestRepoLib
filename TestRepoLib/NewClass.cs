@@ -8,6 +8,6 @@ namespace TestRepoLib
 {
 	class NewClass
 	{
-		public string newClass = "новый класс";
+		public string newClass = "Новый класс";
 	}
 }
