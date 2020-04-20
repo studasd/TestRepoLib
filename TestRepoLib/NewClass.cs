@@ -9,5 +9,6 @@ namespace TestRepoLib
 	class NewClass
 	{
 		public string newClass = "Новый класс";
+		public string newClass2 = "Новый класс2";
 	}
 }
